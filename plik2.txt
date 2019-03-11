@@ -1,2 +1,6 @@
 pliz z gita
-jak sie masz
+<<<<<<< HEAD
+jak sie masz # to jest plik lokalny
+=======
+porwaka w github # to jest zmiana zdalna
+>>>>>>> ac1ba4eb8fdf4a3a7f8ff180b8f17db9c45eba31

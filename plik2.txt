@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nowa wersja zdalna . A to jest zmiana lokalna
+=======
+Nowa wersja zdalna . To jest nastepna zdlana.
+>>>>>>> 8d97951fc303d8529531db95b0e3f460e1e5241f
